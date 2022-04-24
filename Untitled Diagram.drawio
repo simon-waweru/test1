@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T08:25:19.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.3" etag="02Y0dqwwpybnkLyPc_kZ" type="github"><diagram id="Y7vu7sNau7DYmTk2BWZz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-24T08:33:35.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-6xrg6IDKrq-9WaVGQ7C" version="17.4.3" type="github">
+  <diagram id="Y7vu7sNau7DYmTk2BWZz" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-2" value="Bank" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-3" value="ATM Technician" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-4" value="ATM Sysem" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="300" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-5" value="Withdraw" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-6" value="Deposit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-7" value="Check Balance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-8" value="Transfer Cash" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-9" value="Change Pin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-10" value="Maintenance" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-11" value="Repair" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GEZqlaboLZcLWJq_jxGj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GEZqlaboLZcLWJq_jxGj-3" target="GEZqlaboLZcLWJq_jxGj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
